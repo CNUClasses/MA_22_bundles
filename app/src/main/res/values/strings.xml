@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MA_22_bundles</string>
+    <string name="instructions">Rotate the phone and watch onCreate and onSaveInstanceState logging (alt-6).  Notice that the value below increments no matter how many times activity destroyed and recreated</string>
+
+</resources>
